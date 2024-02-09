@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariah05
 - 👀 I’m interested in coding & graphic design
-- 🌱 I’m currently learning Python & SQL
+- 🌱 I’m currently learning Business Information systems and all around that
 - 💞️ I’m looking to collaborate on different variety of projects
 - 📫 How to reach me mariahp_96819 | Discord
 - 😄 Pronouns: She/Her
