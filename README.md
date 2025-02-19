@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Mariah05
-- 👀 I’m interested in coding & graphic design
-- 🌱 I’m currently learning Business Information systems and all around that
-- 💞️ I’m looking to collaborate on different variety of projects
-- 📫 How to reach me mariahp_96819 | Discord
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: idk
+# Marija Talevska | Portfolio
+🚀 Business Analyst | Systems Analyst | Power BI | Data Enthusiast
 
-<!---
-Mariah05/Mariah05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my portfolio! Here, you can find my projects related to:
+- Business Analysis 📊
+- System Analysis 🖥️
+- Power BI Dashboards 📈
+- Notion Templates 📂
+- Sales Strategies 💼
+
+## Projects
+- [Power BI Dashboards](https://github.com/marijatalevska/powerbi-dashboards)
+- [Business Analysis Reports](https://github.com/marijatalevska/business-analysis-projects)
+- [Notion Templates](https://github.com/marijatalevska/notion-templates)
+
+Let's connect on [LinkedIn](https://linkedin.com/in/marija-talevska) 💡
